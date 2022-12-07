@@ -393,6 +393,4 @@ client.on("messageCreate", (message) => {
   }
 });
 
-client.login(
-  "MTAyMjMyMDA5NjA5NTUwMjM3Nw.GGciti.bgxuHWtF8JhIuD3DspZz1AQfOfXklvMTO3haeI"
-);
+client.login(CLIENT_TOKEN);
